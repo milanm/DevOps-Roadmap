@@ -116,3 +116,5 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309), Jennifer Davis, Ryn Daniels <sup>Book</sup>
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
+
+![DevOps books](DevOpsBooks.jpg)

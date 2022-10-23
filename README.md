@@ -1,6 +1,6 @@
 # DevOps Roadmap 2022.
 
-This is a step by step guide on how to become a DevOps engineer, with link to relevant resources.
+This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
 ![DevOps roadmap](DevOps%20Roadmap.png)
 

@@ -23,6 +23,7 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
 - [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
 - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
+- [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
 - [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
 
 ### 3. Learn Linux & Scripting

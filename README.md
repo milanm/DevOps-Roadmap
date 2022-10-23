@@ -10,9 +10,12 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 
 ### 1. GIT
 
-- [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
+- [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
 - [Learn Git & GitHub on CodeAcademy](https://www.codecademy.com/learn/learn-git) <sup>FREE</sup>
+- [Git Command Explorer](https://gitexplorer.com/) <sup>FREE</sup>
+- [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
+- [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) <sup>FREE</sup>
 
 ### 2. Learn programming language
 

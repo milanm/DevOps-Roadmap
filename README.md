@@ -103,7 +103,7 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
 - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
 
-### 12. Learn Agile methods
+### 12. Learn Agile methods+
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
@@ -111,6 +111,7 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Software Development Life Cycle (SDLC) Phases & Models](https://www.guru99.com/software-development-life-cycle-tutorial.html) <sup>FREE</sup>
 - [The Beginner's Guide to Agile in Jira: Course description](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) <sup>FREE</sup>
 - [Learn SAFe](https://www.scaledagileframework.com/) <sup>FREE</sup>
+- [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 
 ### Additional resources (mostly books)
 

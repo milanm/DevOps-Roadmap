@@ -4,6 +4,8 @@ This is a step by step guide on how to become a DevOps engineer, with link to re
 
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
+[Version without background](DevOps%20Roadmap%20No%20Background.png) 
+
 ## Learning resources for DevOps Engineers (mostly free)
 
 ### 1. GIT

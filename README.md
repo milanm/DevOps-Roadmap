@@ -6,6 +6,9 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 
 [Version without background](DevOps%20Roadmap%20No%20Background.png) 
 
+[DevOps Roadmap PDF](DevOps%20Roadmap.pdf) 
+
+
 ## Learning resources for DevOps Engineers (mostly free)
 
 ### 1. GIT
@@ -89,7 +92,7 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/) <sup>FREE</sup>
 - [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/) <sup>FREE</sup>
-- [DevOps Monitorin](https://www.atlassian.com/devops/devops-tools/devops-monitoring) <sup>FREE</sup>
+- [DevOps Monitoring](https://www.atlassian.com/devops/devops-tools/devops-monitoring) <sup>FREE</sup>
 - [Applying Basic vs. Advanced Monitoring Techniques](https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/) <sup>FREE</sup>
 - [Learn Prometheus](https://prometheus.io/docs/tutorials/getting_started/) <sup>FREE</sup>
 - [Learn Grafana](https://grafana.com/tutorials/) <sup>FREE</sup>
@@ -106,7 +109,6 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 ### 12. Learn Agile methods+
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
-- [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
 - [Software Development Life Cycle (SDLC) Phases & Models](https://www.guru99.com/software-development-life-cycle-tutorial.html) <sup>FREE</sup>
 - [The Beginner's Guide to Agile in Jira: Course description](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) <sup>FREE</sup>

@@ -2,6 +2,8 @@
 
 This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
+Created by [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO @ [3MD](https://3mdinc.com) and [Romano Roth](https://romanoroth.com) - Chief of DevOps @ [Zühlke](https://www.zuehlke.com/en).
+
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
 [Version without background](DevOps%20Roadmap%20No%20Background.png) 
@@ -38,11 +40,14 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
 
-### 4. Learn Networking
+### 4. Learn Networking & Security
 
 - [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU) <sup>FREE</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
 - [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
+- [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
+- [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
+- [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
 
 ### 5. Learn Server Management
 
@@ -106,7 +111,7 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
 - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
 
-### 12. Learn Agile methods+
+### 12. Learn DevOps
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>

@@ -2,14 +2,11 @@
 
 This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
-Created by [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO @ [3MD](https://3mdinc.com) and [Romano Roth](https://romanoroth.com) - Chief of DevOps @ [Zühlke](https://www.zuehlke.com/en).
-
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
 [Version without background](DevOps%20Roadmap%20No%20Background.png) 
 
 [DevOps Roadmap PDF](DevOps%20Roadmap.pdf) 
-
 
 ## Learning resources for DevOps Engineers (mostly free)
 
@@ -131,3 +128,9 @@ Created by [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO @ [3MD](ht
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
 
 ![DevOps books](DevOpsBooks.jpg)
+
+## Authors
+
+
+- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com)
+- [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).

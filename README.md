@@ -12,9 +12,9 @@ If you like or are using this project to learn or start your solution, please gi
 
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
-[Version without background](DevOps%20Roadmap%20No%20Background.png) 
+Download [Version without background](DevOps%20Roadmap%20No%20Background.png).
 
-[DevOps Roadmap PDF](DevOps%20Roadmap.pdf) 
+Download [PDF version](DevOps%20Roadmap.pdf).
 
 ## Learning resources for DevOps Engineers (mostly free)
 

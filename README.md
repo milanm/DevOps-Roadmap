@@ -2,6 +2,14 @@
 
 This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
+## Disclaimer
+
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+
+## Give a Star! :star:
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
 [Version without background](DevOps%20Roadmap%20No%20Background.png) 
@@ -129,8 +137,21 @@ This is a step by step guide on how to become a DevOps engineer, with links to r
 
 ![DevOps books](DevOpsBooks.jpg)
 
+## Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+## Contribution
+
+- Open a pull request with improvements
+- Discuss ideas in issues
+- Spread the word
+
+## License
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 ## Authors
 
-
-- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com)
+- [Dr. Milan Milanović](https://milan.milanovic.org) -  CTO at [3MD](https://3mdinc.com).
 - [Romano Roth](https://romanoroth.com) - Chief of DevOps at [Zühlke](https://www.zuehlke.com/en).

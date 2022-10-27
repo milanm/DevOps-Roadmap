@@ -78,7 +78,10 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Kubernetes Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4) <sup>FREE</sup>
 - [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) <sup>Udemy course</sup>
-- [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup>
+- [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup> 
+- [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
+- [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
+- [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
 
 ### 8. Learn Infrastructure as a code
 

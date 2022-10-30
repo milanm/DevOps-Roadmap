@@ -85,6 +85,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
+- [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 
 ### 8. Learn Infrastructure as a code
 

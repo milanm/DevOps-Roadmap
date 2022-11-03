@@ -22,6 +22,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 1. GIT
 
+- [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
 - [Learn Git & GitHub on CodeAcademy](https://www.codecademy.com/learn/learn-git) <sup>FREE</sup>
@@ -80,10 +81,11 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Kubernetes Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4) <sup>FREE</sup>
 - [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) <sup>Udemy course</sup>
-- [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup> 
+- [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup>
 - [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
+- [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 
 ### 8. Learn Infrastructure as a code
 
@@ -93,6 +95,13 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Automate Terraform documentation like a pro!](https://medium.com/google-cloud/automate-terraform-documentation-like-a-pro-ed3e19998808) <sup>FREE</sup>
 - [Writing reusable Terraform modules](https://thomasthornton.cloud/2022/06/02/writing-reusable-terraform-modules/) <sup>FREE</sup>
 - [What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio) <sup>FREE</sup>
+- [Puppet overview](https://puppet.com/docs/puppet/latest/puppet_overview.html) <sup>FREE</sup>
+- [Puppet Courses](https://training.puppet.com/) <sup>FREE and PAID</sup>
+- [Getting Started With Ansible](https://docs.ansible.com/ansible/latest/getting_started/) <sup>FREE</sup>
+- [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
+- [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
+- [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup>
+- [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
 
 ### 9. Learn CI/CD
 
@@ -112,7 +121,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Learn Prometheus](https://prometheus.io/docs/tutorials/getting_started/) <sup>FREE</sup>
 - [Learn Grafana](https://grafana.com/tutorials/) <sup>FREE</sup>
 - [Elastic Stack](https://www.elastic.co/guide/index.html) <sup>FREE</sup>
- 
+
 ### 11. Learn one Cloud provider
 
 - [Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900) <sup>FREE</sup>

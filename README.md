@@ -135,7 +135,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
 - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
 
-### 12. Learn DevOps
+### 12. Learn Software Engineering Practices
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>

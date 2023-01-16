@@ -91,6 +91,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
+- [Kubernetes Tutorial for Beginners – Basic Concepts & Examples](https://spacelift.io/blog/kubernetes-tutorial) <sup>FREE</sup>
 
 ### 8. Learn Infrastructure as a code
 
@@ -107,6 +108,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
 - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup>
 - [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
+- [Getting Started With Terraform on AWS](https://spacelift.io/blog/terraform-tutorial) <sup>FREE</sup>
 
 ### 9. Learn CI/CD
 

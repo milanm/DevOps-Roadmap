@@ -115,6 +115,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
 - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
 - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
+- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
 - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
 - [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 

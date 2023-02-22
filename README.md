@@ -279,12 +279,32 @@ Resources:
 ### Books
 
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/3IJPv0h), Gene Kim, Patrick Debois, John Willis, Jez Humble <sup>Book</sup>
+
+    The book introduces product development, quality assurance, IT operations, and information security. It is a great read for those who are new to DevOps or who want to learn more about how the various components of DevOps work together.
+
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3XRShoA), Nicole Forsgren, Jez Humble, Gene Kim <sup>Book</sup>
+
+    This book presents both the findings and the science behind measuring software delivery performance. For promoting DevOps to senior management, it's a fantastic tool.
+
 - [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ](https://amzn.to/3XRShoA), Jez Humble, David Farley <sup>Book</sup>
+
+    It introduces automated architecture management and data migration. Many of the deployment pipeline concepts that have since become standard were established in this book. Config as Code, build and deployment automation, and efficient testing techniques are covered in some technical detail. Its mostly technical book.
+
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://amzn.to/3Zb83fl), Matthew Skelton, Manuel Pais <sup>Book</sup>
+
+    The main subject of the book "Team Topologies: Organizing Business and Technology Teams for Fast Flow" by Matthew Skelton and Manuel Pais is how to organize teams in a way that enables fast flow of value to customers. The book provides a set of four fundamental team topologies: Stream-Aligned Teams, Enabling Teams, Complicated-Subsystem Teams, and Platform Teams, which can be combined and adapted to suit different organizational contexts. 
+
 - [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://amzn.to/3Za5aLH), Jennifer Davis, Ryn Daniels <sup>Book</sup>
+
+    The book provides effective ways to improve team coordination. It shows how to break down information silos, monitor relationships, and repair misunderstandings that arise between and within teams in your organization.
+
 - [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3Z6VSQG), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
+
+    It is a classic novel about effectiveness and communications. IT work is like manufacturing plant work, and a system must be established to streamline the workflow. One of the best books out there.
+
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
+
+    This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.
 
 ![DevOps books](DevOpsBooks.jpg)
 

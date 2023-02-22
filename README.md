@@ -185,6 +185,15 @@ Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently
 
 CI/CD introduces continuous automation and **continuous** monitoring throughout the lifecycle of apps, from integration and testing phases to delivery and deployment. These connected practices are often referred to as a "**CI/CD pipeline**" and are supported by development and operations teams.
 
+There are **different stages** of a CI/CD pipeline, such as: **build, test and deploy**, but there could be much more activities included:
+
+- Checking code from version control and building it
+- Having staged gates for different kinds of approvals
+- Managing environment variables
+- Restarting services
+- Executing tests
+- And more...
+
 Here you need to learn how to set up CI/CD server, integrate code and trigger pipelines automatically, and build and package management tools.
 
 Some **popular CI/CD tools** are Jenkins, TeamCity, CircleCI, Bamboo, GitLab, and Azure DevOps.

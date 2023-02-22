@@ -2,8 +2,6 @@
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
-![DevOps roadmap](devops%20tools.png)
-
 ## Disclaimer
 
 > The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember that hype and trendy do not always mean best suited for the job.
@@ -275,6 +273,8 @@ Resources:
 - **Configuration Management**: [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Puppet](https://www.puppet.com/), [Chef](https://www.chef.io/).
 - **Container orchestration**: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 - **Monitoring**: [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Splunk](https://www.splunk.com/), [Dynatrace](https://www.dynatrace.com/), [Kibana](https://www.elastic.co/kibana/).
+
+![DevOps roadmap](devops%20tools.png)
 
 ### Books
 

@@ -83,6 +83,7 @@ Resources:
 - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) <sup>FREE</sup>
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
+- [Linux command handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <sup>FREE</sup>
 
 ### 4. Learn Networking & Security
 
@@ -92,7 +93,7 @@ Here you will need to know how a network works, how to configure **firewalls**, 
 
 Resources:
 
-- [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU) <sup>FREE</sup>
+- [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>FREE</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
 - [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
 - [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
@@ -195,6 +196,7 @@ Resources:
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
 - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
 - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
+- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
 - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
 - [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 

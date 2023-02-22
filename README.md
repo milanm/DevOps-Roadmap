@@ -269,12 +269,12 @@ Resources:
 
 ### Books
 
-- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002), Gene Kim, Patrick Debois, John Willis, Jez Humble <sup>Book</sup>
-- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), Nicole Forsgren, Jez Humble, Gene Kim <sup>Book</sup>
-- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912), Jez Humble, David Farley <sup>Book</sup>
-- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819), Matthew Skelton, Manuel Pais <sup>Book</sup>
-- [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://www.amazon.com/Effective-DevOps-Building-Collaboration-Affinity/dp/1491926309), Jennifer Davis, Ryn Daniels <sup>Book</sup>
-- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://amzn.to/3IJPv0h), Gene Kim, Patrick Debois, John Willis, Jez Humble <sup>Book</sup>
+- [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://amzn.to/3XRShoA), Nicole Forsgren, Jez Humble, Gene Kim <sup>Book</sup>
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ](https://amzn.to/3XRShoA), Jez Humble, David Farley <sup>Book</sup>
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://amzn.to/3Zb83fl), Matthew Skelton, Manuel Pais <sup>Book</sup>
+- [Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale](https://amzn.to/3Za5aLH), Jennifer Davis, Ryn Daniels <sup>Book</sup>
+- [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](https://amzn.to/3Z6VSQG), Gene Kim, Kevin Behr, George Spafford <sup>Book</sup>
 - [Site Reliability Engineering](https://sre.google/books/), Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Richard Murphy <sup>Book</sup>
 
 ![DevOps books](DevOpsBooks.jpg)

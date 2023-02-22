@@ -1,12 +1,12 @@
-# DevOps Roadmap 2022.
+# DevOps Roadmap 2023.
 
-This is a step by step guide on how to become a DevOps engineer, with links to relevant learning resources.
+This is a tep-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
 ![DevOps roadmap](devops%20tools.png)
 
 ## Disclaimer
 
-> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hype and trendy does not always mean best suited for the job.
+> The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hype and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember that hype and trendy do not always mean best suited for the job.
 
 ## Give a Star! :star:
 
@@ -26,6 +26,16 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 1. GIT
 
+All your resources (files) will be held in a GIT repository. Those files are **application code** but also **infrastructure as a code**. 
+
+**Git** is a free tool used for source code management. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. 
+
+The two most popular Git platforms are **GitLab** and **GitHub**.
+
+Here you need to learn Git commands, like git clone, branch, merge, and how to collaborate on a project with pull requests.
+
+Resources:
+
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
 - [Learn Git Branching](https://learngitbranching.js.org/) <sup>FREE</sup>
@@ -34,7 +44,17 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) <sup>FREE</sup>
 
-### 2. Learn programming language
+### 2. Learn one programming language
+
+As an engineer, it is recommended to know at least one programming language that you can use to write **automation scripts**.
+
+Some popular programming languages for DevOps-es are **Python, Go, and JavaScript**.
+
+Python is a multi-paradigm language. Being an interpreted language, code is executed as soon as it is written, and the syntax allows for writing code in different ways. **Python** is frequently recommended as the first language new coders should learn, because of its focus on readability, consistency, and ease of use. 
+
+Here you need to learn basic concepts of programming languages, such as syntax, if/else, loops, data structures, etc.
+
+Resources:
 
 - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
@@ -45,6 +65,18 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 3. Learn Linux & Scripting
 
+An Operating system serves as a bridge between a computer's user and its hardware. Its function is to offer a setting in which a user can conveniently and effectively run programs. 
+
+As most servers use **Linux OS**, you need to make yourself comfortable with Linux and its CLI. 
+
+One easy-to-start distribution is **Ubuntu**. 
+
+In addition, you need to know **scripting** to automate tasks for development and operations. 
+
+Here you can learn OS-specific languages, such as **Bash or Powershell**, or independent, like Python or Go.
+
+Resources:
+
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
 - [Powershell Tutorial for Beginners: Learn Powershell Scripting](https://www.guru99.com/powershell-tutorial.html)  <sup>FREE</sup>
@@ -54,6 +86,12 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 4. Learn Networking & Security
 
+A **network protocol** is an established set of rules that determine how data is transmitted between different devices in the same network. Essentially, it allows connected devices to communicate with each other, regardless of any differences in their internal processes, structure, or design. 
+
+Here you will need to know how a network works, how to configure **firewalls**, understand how **DNS** works, **OSI model**, IP addresses, ports, etc.
+
+Resources:
+
 - [OSI Model Explained](https://www.youtube.com/watch?v=dV8mjZd1OtU) <sup>FREE</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
 - [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
@@ -62,6 +100,16 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
 
 ### 5. Learn Server Management
+
+Server management includes all the infrastructure monitoring and maintenance required for servers to operate reliably and at optimal performance levels. The primary goals of an **effective server management strategy** are to:
+
+- Minimize server slowdowns and downtime while maximizing reliability.
+- Build secure server environments.
+- Scale servers and related operations to meet the needs of the organization over time.
+
+Here you will need to know what is **forward and reverse proxies**, **caching servers**, and how to operate **Web Servers**, such as Nginx, Apache, or IIS.
+
+Resources:
 
 - [What is a reverse proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) <sup>FREE</sup>
 - [Cache Server](https://networkencyclopedia.com/cache-server/) <sup>FREE</sup>
@@ -74,6 +122,12 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 6. Learn Containers
 
+A **container** is a standard unit of software that packages up code and all its dependencies, so the application runs quickly and reliably from one computing environment to another. 
+
+**Docker** is by far the most popular container technology today. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries, and settings. Here you need to know how to run containers, Docker Networking, Volumes, Dockerfiles, and run multiple containers with Docker-Compose.
+
+Resources:
+
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
 - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
 - [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
@@ -81,6 +135,14 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 
 ### 7. Learn Container Orchestration
+
+Container orchestration **automates** the deployment, management, scaling, and networking of containers. 
+
+Container orchestration can be used in any environment where you use containers. It can help you to deploy the same application across different environments without needing to redesign it. And microservices in containers make it easier to orchestrate services, including storage, networking, and security. 
+
+Here you need to learn how **Kubernetes** works, and how to administer the Kubernetes cluster and deploy applications on it. 
+
+Resources:
 
 - [Kubernetes Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4) <sup>FREE</sup>
 - [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
@@ -90,8 +152,17 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
+- [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
 
 ### 8. Learn Infrastructure as a code
+
+Sometimes referred to as **IaC**, it refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows Engineers to automate environment setup and teardown. Accelerates and de-risks deployment by provisioning gold copy environments on demand.
+
+**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansimble, Chef, Puppet, and Vagrant.
+
+Here you need to know how to do **infrastructure provisioning** and **configuration management**.
+
+Resources:
 
 - [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/) <sup>FREE</sup>
 - [Official Terraform Tutorials](https://learn.hashicorp.com/terraform) <sup>FREE</sup>
@@ -109,6 +180,16 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 9. Learn CI/CD
 
+Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently deliver apps to customers by introducing **automation** into the stages of app development. CI/CD is a solution to the problems integrating new code can cause for development and operations teams.
+
+CI/CD introduces continuous automation and **continuous** monitoring throughout the lifecycle of apps, from integration and testing phases to delivery and deployment. These connected practices are often referred to as a "**CI/CD pipeline**" and are supported by development and operations teams.
+
+Here you need to learn how to set up CI/CD server, integrate code and trigger pipelines automatically, and build and package management tools.
+
+Some **popular CI/CD tools** are Jenkins, TeamCity, CircleCI, Bamboo, GitLab, and Azure DevOps.
+
+Resources:
+
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
 - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
@@ -118,6 +199,16 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 
 ### 10. Learn Monitoring & Observability
+
+Monitoring entails overseeing the entire development process from planning, development, integration and testing, deployment, and operations. It involves a complete and **real-time view** of the status of applications, services, and infrastructure in the production environment.
+
+This is especially important when our software is in **production**, and we need to track all kinds of issues in our infrastructure and application.
+
+The two most popular tools are **Prometheus** and **Grafana**.
+
+Here you need to know how to set up monitoring and visualize data.
+
+Resources:
 
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/) <sup>FREE</sup>
 - [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/) <sup>FREE</sup>
@@ -129,6 +220,14 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ### 11. Learn one Cloud provider
 
+Cloud providers provide a layer of APIs to abstract infrastructure and provision it based on security and billing boundaries. The cloud runs on servers in data centers, but the abstractions cleverly give the appearance of interacting with a single "platform" or large application. The ability to quickly provision, configure and secure resources with cloud providers has been key to both the tremendous success, and complexity, of modern DevOps.
+
+The most popular cloud providers in the market are **AWS** and **Azure**, as well as **Google Cloud**.
+
+Here you need to know how to manage users and administration, networks, virtual servers, etc.
+
+Resources:
+
 - [Exam AZ-900: Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900) <sup>FREE</sup>
 - [Microsoft Azure Fundamentals Certification Course (AZ-900)](https://www.youtube.com/watch?v=NKEFWyqJ5XA) <sup>FREE</sup>
 - [AZ-900 | Microsoft Azure Fundamentals Full Course, Free Practice Tests, Website and Study Guides](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) <sup>FREE</sup>
@@ -136,6 +235,14 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
 
 ### 12. Learn Software Engineering Practices
+
+As a DevOps engineer, you will probably work in a team with other developers in an Agile world, such as **Scrum**. So, it is very important to know different parts of **SDLC**, as well as the tools which are used there.
+
+In addition, it would be good to know how **automation testing** is working, as you will need to set up it in CI/CD way.
+
+Here you need to know what is **Scrum**, all phases of **SDLC**, how **automation testing** works, etc.
+
+Resources:
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
@@ -145,7 +252,20 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 - [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
 
-### Additional resources (mostly books)
+## Additional resources
+
+### Tools
+
+- Work Tracking: [Asana](https://asana.com/), [Monday](https://monday.com/), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azure Boards](https://azure.microsoft.com/en-au/products/devops/boards/).
+- Source code control: [Git](https://git-scm.com/), [Github](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops).
+- CI/CD: [Jenkins](https://www.jenkins.io/), [Team City](https://www.jetbrains.com/teamcity/), [Github Actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/), [Bamboo](https://www.atlassian.com/software/bamboo), [Circle CI](https://circleci.com/), [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines/), [Octopus Deploy](https://octopus.com/), [Harness](https://www.harness.io/), [CloudBees CodeShip](https://www.cloudbees.com/products/codeship).
+- Source Code Analysis: [SonarQube](https://www.sonarsource.com/products/sonarqube/).
+- Artifact management: [Artifactory](https://jfrog.com/artifactory/), [Docker Container Register](https://docs.docker.com/registry/), [npm](https://www.npmjs.com/), [Yarn](https://yarnpkg.com/), [NuGet](https://www.nuget.org/).
+- Configuration Management: [Terraform](https://www.terraform.io/), [Ansible](https://www.ansible.com/), [Puppet](https://www.puppet.com/), [Chef](https://www.chef.io/).
+- Container orchestration: [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
+- Monitoring: [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/), [Splunk](https://www.splunk.com/), [Dynatrace](https://www.dynatrace.com/), [Kibana](https://www.elastic.co/kibana/).
+
+### Books
 
 - [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002), Gene Kim, Patrick Debois, John Willis, Jez Humble <sup>Book</sup>
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339), Nicole Forsgren, Jez Humble, Gene Kim <sup>Book</sup>
@@ -159,7 +279,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 ## Wrap Up
 
-If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+If you think the roadmap can be improved, please open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
 
 ## Contribution
 

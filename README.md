@@ -159,7 +159,7 @@ Resources:
 
 Sometimes referred to as **IaC**, it refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows Engineers to automate environment setup and teardown. Accelerates and de-risks deployment by provisioning gold copy environments on demand.
 
-**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansimble, Chef, Puppet, and Vagrant.
+**Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
 Here you need to know how to do **infrastructure provisioning** and **configuration management**.
 

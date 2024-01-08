@@ -1,4 +1,4 @@
-# DevOps Roadmap 2023.
+# DevOps Roadmap 2024.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 

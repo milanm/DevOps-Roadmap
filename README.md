@@ -22,6 +22,25 @@ Download [Version without background](DevOps%20Roadmap%20No%20Background.png).
 
 Download [PDF version](DevOps%20Roadmap.pdf).
 
+## Table of Contents
+
+- [Learning resources for DevOps Engineers (mostly free)](#learning-resources-for-devops-engineers-mostly-free)
+  - [1. GIT](#1-git)
+  - [2. Learn one programming language](#2-learn-one-programming-language)
+  - [3. Learn Linux & Scripting](#3-learn-linux--scripting)
+  - [4. Learn Networking & Security](#4-learn-networking--security)
+  - [5. Learn Server Management](#5-learn-server-management)
+  - [6. Learn Containers](#6-learn-containers)
+  - [7. Learn Container Orchestration](#7-learn-container-orchestration)
+  - [8. Learn Infrastructure as a code](#8-learn-infrastructure-as-a-code)
+  - [9. Learn CI/CD](#9-learn-cicd)
+  - [10. Learn Monitoring & Observability](#10-learn-monitoring--observability)
+  - [11. Learn one Cloud provider](#11-learn-one-cloud-provider)
+  - [12. Learn Software Engineering Practices](#12-learn-software-engineering-practices)
+- [Additional resources](#additional-resources)
+  - [Tools](#tools)
+  - [Books](#books)
+
 ## Learning resources for DevOps Engineers (mostly free)
 
 ### 1. GIT

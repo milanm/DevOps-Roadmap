@@ -219,6 +219,7 @@ Some **popular CI/CD tools** are Jenkins, TeamCity, CircleCI, Bamboo, GitLab, an
 
 Resources:
 
+- [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
 - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>

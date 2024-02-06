@@ -77,6 +77,7 @@ Resources:
 
 - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
 - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
+- [Learn Python - Full Course for Beginners](https://www.youtube.com/watch?v=rfscVS0vtbw) <sup>FREE</sup>
 - [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
 - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
 - [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
@@ -99,6 +100,7 @@ Resources:
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
 - [Powershell Tutorial for Beginners: Learn Powershell Scripting](https://www.guru99.com/powershell-tutorial.html)  <sup>FREE</sup>
+- [Bash Scripting on Linux]([https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html](https://www.youtube.com/watch?v=boqC9QenshY&list=PLT98CRl2KxKGj-VKtApD8-zCqSaN2mD4w&index=2)) <sup>FREE</sup>
 - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) <sup>FREE</sup>
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>

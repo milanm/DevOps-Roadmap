@@ -334,7 +334,7 @@ Resources:
 
 We can even present this roadmap as a burger :).
 
-![DevOps as a Burger](DevOpsBurger.png)
+![DevOps as a Burger](DevOpsBurger.jpg)
 
 ## Wrap Up
 

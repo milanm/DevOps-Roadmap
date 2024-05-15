@@ -282,6 +282,7 @@ Resources:
 - [Learn SAFe](https://www.scaledagileframework.com/) <sup>FREE</sup>
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 - [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
+- [DevOps Engineer Skills You Need](https://www.scaler.com/blog/devops-engineer-skills/) <sup>FREE</sup>
 
 ## Additional resources
 

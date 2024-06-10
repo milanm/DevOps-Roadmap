@@ -282,6 +282,8 @@ Resources:
 - [Learn SAFe](https://www.scaledagileframework.com/) <sup>FREE</sup>
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 - [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
+- [Common SDLC Models](https://www.scaler.com/blog/software-development-life-cycle/#common-sdlc-models) <sup>FREE</sup>
+
 
 ## Additional resources
 

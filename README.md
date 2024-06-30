@@ -276,6 +276,7 @@ Here you need to know what is **Scrum**, all phases of **SDLC**, how **automatio
 Resources:
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
+- [Key Tools and Practices](https://www.scaler.com/blog/devops/#key-tools-and-practices-in-devops) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
 - [Software Development Life Cycle (SDLC) Phases & Models](https://www.guru99.com/software-development-life-cycle-tutorial.html) <sup>FREE</sup>
 - [The Beginner's Guide to Agile in Jira: Course description](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) <sup>FREE</sup>

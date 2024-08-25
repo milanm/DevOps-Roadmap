@@ -157,6 +157,7 @@ Resources:
 - [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
+- [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
 
 ### 7. Learn Container Orchestration
 

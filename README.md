@@ -107,6 +107,7 @@ Resources:
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
 - [Linux command handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <sup>FREE</sup>
+- [Practice Linux Commands with Hands-on Labs](https://labex.io/courses/linux-basic-commands-practice-online) <sup>FREE</sup>
 
 ### 4. Learn Networking & Security
 
@@ -158,6 +159,7 @@ Resources:
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
+- [Quick Start with Docker](https://labex.io/courses/quick-start-with-docker) <sup>FREE</sup>
 
 ### 7. Learn Container Orchestration
 

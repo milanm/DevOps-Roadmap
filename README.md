@@ -1,4 +1,4 @@
-# DevOps Roadmap 2024.
+# DevOps Roadmap 2025.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
@@ -179,7 +179,7 @@ Resources:
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 - [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
 
-### 8. Learn Infrastructure as a code
+### 8. Learn Infrastructure as a code (X as Code)
 
 Sometimes referred to as **IaC**, it refers to the techniques and tools used to define infrastructure, typically in a markup language like YAML or JSON. Infrastructure as code allows Engineers to automate environment setup and teardown. Accelerates and de-risks deployment by provisioning gold copy environments on demand.
 

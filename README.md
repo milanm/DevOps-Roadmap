@@ -36,7 +36,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
   - [5. Learn Server Management](#5-learn-server-management)
   - [6. Learn Containers](#6-learn-containers)
   - [7. Learn Container Orchestration](#7-learn-container-orchestration)
-  - [8. Learn Infrastructure as a code](#8-learn-infrastructure-as-a-code)
+  - [8. Learn Infrastructure as a code](#8-learn-infrastructure-as-a-code-x-as-code)
   - [9. Learn CI/CD](#9-learn-cicd)
   - [10. Learn Monitoring & Observability](#10-learn-monitoring--observability)
   - [11. Learn one Cloud provider](#11-learn-one-cloud-provider)

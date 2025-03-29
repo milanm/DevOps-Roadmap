@@ -66,6 +66,8 @@ Resources:
 - [Git Command Explorer](https://gitexplorer.com/) <sup>FREE</sup>
 - [Git Immersion](https://gitimmersion.com/index.html) <sup>FREE</sup>
 - [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) <sup>FREE</sup>
+- [Git & GitHub Tutorial](https://www.youtube.com/watch?v=S7XpTAnSDL4) <sup>FREE</sup>
+- [Advanced Git Tutorial](https://www.youtube.com/watch?v=qsTthZi23VE) <sup>FREE</sup>
 
 ### 2. Learn one programming language
 
@@ -92,6 +94,8 @@ An Operating system serves as a bridge between a computer's user and its hardwar
 
 As most servers use **Linux OS**, you need to make yourself comfortable with Linux and its CLI. 
 
+Lear basic commands, such as: ls, cd, mkdir, rm, cp, mv, touch, cat, printenv, grep, find, chmod, chmod, ps, kill, top, df, du, tar, gzip, ssh, scp, wget, curl, etc.
+
 One easy-to-start distribution is **Ubuntu**. 
 
 In addition, you need to know **scripting** to automate tasks for development and operations. 
@@ -107,6 +111,7 @@ Resources:
 - [Ultimate Guide: Getting Started With Ubuntu](https://itsfoss.com/getting-started-with-ubuntu/) <sup>FREE</sup>
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
 - [Linux command handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <sup>FREE</sup>
+- [Linux commands for Cloud and Devops engineers](https://www.youtube.com/watch?v=lCq4mYQL0WY) <sup>FREE</sup>
 
 ### 4. Learn Networking & Security
 
@@ -150,14 +155,20 @@ Resources:
 
 A **container** is a standard unit of software that packages up code and all its dependencies, so the application runs quickly and reliably from one computing environment to another. 
 
-**Docker** is by far the most popular container technology today. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries, and settings. Here you need to know how to run containers, Docker Networking, Volumes, Dockerfiles, and run multiple containers with Docker-Compose.
+**Docker** is by far the most popular container technology today. A Docker container image is a lightweight, standalone, executable package of software that includes everything needed to run an application: code, runtime, system tools, system libraries, and settings. 
+
+Here you need to know how to run containers, Docker Networking, Volumes, Dockerfiles, and run multiple containers with Docker-Compose.
+
+Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
 
 Resources:
 
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
 - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
+- [Docker Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=pg19Z8LL06w) <sup>FREE</sup>
 - [Docker Tutorial for Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE) <sup>FREE</sup>
-- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
+- [Ultimate Docker Compose Tutorial by TechWorld with Nana](https://www.youtube.com/watch?v=SXwC9fSwct8) <sup>FREE</sup>
+- [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
 
@@ -167,7 +178,11 @@ Container orchestration **automates** the deployment, management, scaling, and n
 
 Container orchestration can be used in any environment where you use containers. It can help you to deploy the same application across different environments without needing to redesign it. And microservices in containers make it easier to orchestrate services, including storage, networking, and security. 
 
-Here you need to learn how **Kubernetes** works, and how to administer the Kubernetes cluster and deploy applications on it. 
+Here you need to learn how **Kubernetes** works, and how to administer the Kubernetes cluster and deploy applications on it.
+
+You need to know basic components of Kubernetes, such as: Master Node, Worker Node, Pod, ReplicaSet, Deployment, Service, Ingress, ConfigMap, Secret, PersistentVolume, PersistentVolumeClaim, StatefulSet, DaemonSet, Job and CronJob.
+
+Also, you need to know how to work with kubectl and Helm tools.
 
 Resources:
 
@@ -187,23 +202,31 @@ Sometimes referred to as **IaC**, it refers to the techniques and tools used to 
 
 **Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
-Here you need to know how to do **infrastructure provisioning** and **configuration management**.
+Here you need to know how to do **infrastructure provisioning** and **configuration management**, but also how to write **Terraform modules**.
 
 Resources:
 
 - [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/) <sup>FREE</sup>
-- [Official Terraform Tutorials](https://learn.hashicorp.com/terraform) <sup>FREE</sup>
-- [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) <sup>FREE</sup>
-- [Automate Terraform documentation like a pro!](https://medium.com/google-cloud/automate-terraform-documentation-like-a-pro-ed3e19998808) <sup>FREE</sup>
-- [Writing reusable Terraform modules](https://thomasthornton.cloud/2022/06/02/writing-reusable-terraform-modules/) <sup>FREE</sup>
-- [What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio) <sup>FREE</sup>
-- [Puppet overview](https://puppet.com/docs/puppet/latest/puppet_overview.html) <sup>FREE</sup>
-- [Puppet Courses](https://training.puppet.com/) <sup>FREE and PAID</sup>
-- [Getting Started With Ansible](https://docs.ansible.com/ansible/latest/getting_started/) <sup>FREE</sup>
-- [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
-- [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
-- [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup>
-- [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
+- Terraform:
+    - [Official Terraform Tutorials](https://learn.hashicorp.com/terraform) <sup>FREE</sup>
+    - [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca) <sup>FREE</sup>
+    - [Automate Terraform documentation like a pro!](https://medium.com/google-cloud/automate-terraform-documentation-like-a-pro-ed3e19998808) <sup>FREE</sup>
+    - [Writing reusable Terraform modules](https://thomasthornton.cloud/2022/06/02/writing-reusable-terraform-modules/) <sup>FREE</sup>
+    - [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo) <sup>FREE</sup>
+    - [HashiCorp Terraform Associate Certification Course](https://www.youtube.com/watch?v=SPcwo0Gq9T8) <sup>FREE</sup>
+    - [Terraform on Azure](https://learn.microsoft.com/en-us/azure/developer/terraform/overview) <sup>FREE</sup>
+- Puppet:
+    - [Puppet overview](https://puppet.com/docs/puppet/latest/puppet_overview.html) <sup>FREE</sup>
+    - [Puppet Courses](https://training.puppet.com/) <sup>FREE and PAID</sup>
+- Chef:
+    - [Learn Chef](https://learn.chef.io/) <sup>FREE</sup>
+- Ansible:
+    - [Getting Started With Ansible](https://docs.ansible.com/ansible/latest/getting_started/) <sup>FREE</sup>
+    - [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
+    - [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
+    - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup
+- Istio:
+    - [What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio) <sup>FREE</sup>
 
 ### 9. Learn CI/CD
 
@@ -220,21 +243,27 @@ There are **different stages** of a CI/CD pipeline, such as: **build, test and d
 - Executing tests
 - And more...
 
-Here you need to learn how to set up CI/CD server, integrate code and trigger pipelines automatically, and build and package management tools.
+Here you need to learn how to set up CI/CD server, integrate code and trigger pipelines automatically, store and read secrets, and build and package management tools.
 
-Some **popular CI/CD tools** are Jenkins, TeamCity, CircleCI, Bamboo, GitLab, and Azure DevOps.
+Some **popular CI/CD tools** are: Jenkins, TeamCity, CircleCI, Bamboo, GitLab, and Azure DevOps.
 
 Resources:
 
 - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
-- [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
-- [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
-- [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
-- [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
-- [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
-- [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
-- [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
+- Jenkins:
+    - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
+- Azure DevOps:
+    - [Learn Azure DevOps](https://milan.milanovic.org/post/ci-cd-with-azure-devops-yaml/) <sup>FREE</sup>
+- GitHub Actions:
+    - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
+    - [GitHub Actions Tutorial by Tech World with Nana](https://www.youtube.com/watch?v=R8_veQiYBjI) <sup>FREE</sup>
+    - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
+- GitLab:
+    - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
+    - [GitLab CI CD Tutorial for Beginners by Tech World With Nana](https://www.youtube.com/watch?v=qP8kir2GUgo) <sup>FREE</sup>
+    - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
+    - [GitLab Cheatsheets](https://dev.to/jphi_baconnais/series/12928) <sup>FREE</sup>
 
 ### 10. Learn Monitoring & Observability
 
@@ -242,9 +271,9 @@ Monitoring entails overseeing the entire development process from planning, deve
 
 This is especially important when our software is in **production**, and we need to track all kinds of issues in our infrastructure and application.
 
-The two most popular tools are **Prometheus** and **Grafana**.
+The two most popular tools are **Prometheus** and **Grafana**, but also Cloud-based tools such as AWS CloudWatch, Azure Monitor, and Google Cloud Monitoring.
 
-Here you need to know how to set up monitoring and visualize data.
+Here you need to know how to set up monitoring and visualize data, crating and setting up alerting, and creating automatization during alerting.
 
 Resources:
 
@@ -254,7 +283,11 @@ Resources:
 - [Applying Basic vs. Advanced Monitoring Techniques](https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/) <sup>FREE</sup>
 - [Learn Prometheus](https://prometheus.io/docs/tutorials/getting_started/) <sup>FREE</sup>
 - [Learn Grafana](https://grafana.com/tutorials/) <sup>FREE</sup>
+- [Beautiful Dashboards with Grafana and Prometheus](https://www.youtube.com/watch?v=fzny5uUaAeY) <sup>FREE</sup>
 - [Elastic Stack](https://www.elastic.co/guide/index.html) <sup>FREE</sup>
+- [AWS Tutorial - Amazon CloudWatch Tutorial](https://www.youtube.com/watch?v=qVYnlxdEebE) <sup>FREE</sup>
+- [Datadog 101 Course](https://www.youtube.com/watch?v=Js06FTU3nXo) <sup>FREE</sup>
+- [Splunk Fundamentals](https://www.splunk.com/en_us/training/splunk-fundamentals.html) <sup>FREE</sup>    
 
 ### 11. Learn one Cloud provider
 

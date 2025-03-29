@@ -195,6 +195,7 @@ Resources:
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 - [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
+- [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) <sup>FREE</sup>
 
 ### 8. Learn Infrastructure as a code (X as Code)
 
@@ -307,6 +308,8 @@ Resources:
 - AWS:
     - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
     - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
+- Google Cloud:
+    - [Google Cloud Associate Cloud Engineer Course](https://www.youtube.com/watch?v=jpno8FSqpc8) <sup>FREE</sup>
 
 ### 12. Learn Software Engineering Practices
 

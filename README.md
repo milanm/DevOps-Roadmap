@@ -41,6 +41,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
   - [10. Learn Monitoring & Observability](#10-learn-monitoring--observability)
   - [11. Learn one Cloud provider](#11-learn-one-cloud-provider)
   - [12. Learn Software Engineering Practices](#12-learn-software-engineering-practices)
+  - [Bonus: Learn DevSecOps Fundamentals](#bonus-learn-devsecops-fundamentals)
 - [Additional resources](#additional-resources)
   - [Tools](#tools)
   - [Books](#books)
@@ -81,12 +82,16 @@ Here you need to learn basic concepts of programming languages, such as syntax, 
 
 Resources:
 
-- [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
-- [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
-- [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
-- [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
-- [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
-- [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
+- Python:
+  - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
+  - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
+- JavaScript:
+  - [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
+  - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>
+  - [Eloquent JavaScript, 3rd edition](https://eloquentjavascript.net/), Marjin Haverbeke <sup>FREE book</sup>
+- Go
+  - [Go by Example](https://gobyexample.com/) <sup>FREE</sup>
+  - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests) <sup>FREE</sup>
 
 ### 3. Learn Linux & Scripting
 
@@ -171,6 +176,7 @@ Resources:
 - [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
+- [OCI Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
 
 ### 7. Learn Container Orchestration
 
@@ -203,7 +209,7 @@ Sometimes referred to as **IaC**, it refers to the techniques and tools used to 
 
 **Terraform** is the most popular infrastructure provisioning tool, but there are others such as Ansible, Chef, Puppet, and Vagrant.
 
-Here you need to know how to do **infrastructure provisioning** and **configuration management**, but also how to write **Terraform modules**.
+Here you need to know how to do **infrastructure provisioning** and **configuration management**.
 
 Resources:
 
@@ -308,8 +314,10 @@ Resources:
 - AWS:
     - [Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) <sup>Udemy</sup>
     - [AWS Developer by A Cloud Guru](https://acloudguru.com/learning-paths/aws-developer) <sup>Learning path</sup>
+    - [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/) <sup>FREE</sup>
 - Google Cloud:
     - [Google Cloud Associate Cloud Engineer Course](https://www.youtube.com/watch?v=jpno8FSqpc8) <sup>FREE</sup>
+    - [Google Cloud Well-Architected Framework](https://cloud.google.com/architecture/framework) <sup>FREE</sup>
 
 ### 12. Learn Software Engineering Practices
 
@@ -329,6 +337,24 @@ Resources:
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 - [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
 - [Common SDLC Models](https://www.scaler.com/blog/software-development-life-cycle/#common-sdlc-models) <sup>FREE</sup>
+
+### Bonus: Learn DevSecOps Fundamentals
+
+Security must be integrated throughout the DevOps lifecycle rather than added as an afterthought.
+
+Here you will need to learn how to integrate security into the DevOps pipeline, and how to automate security testing (SAST and DAST).
+
+Also, you need to know how to manage secrets and credentials, and how to set up security policies.
+
+Resources:
+
+- [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/) <sup>FREE</sup>
+- [Supply Chain Levels for Software Artifacts (SLSA)](https://slsa.dev/) <sup>FREE</sup>
+- [HashiCorp Vault Documentation](https://developer.hashicorp.com/vault/docs) <sup>FREE</sup>
+- [Trivy Documentation](https://trivy.dev/latest/) <sup>FREE</sup>
+- [Falco Runtime Security](https://falco.org/docs/) <sup>FREE</sup>
+- [DevSecOps: A leader's guide](https://www.devsecops.org/) <sup>FREE</sup>
+- [Container Security](https://www.oreilly.com/library/view/container-security/9781492056690/) book
 
 
 ## Additional resources

@@ -58,7 +58,7 @@ The two most popular Git platforms are **GitLab** and **GitHub**.
 
 Here you need to learn Git commands, like git clone, branch, merge, and how to collaborate on a project with pull requests.
 
-Resources:
+**Resources:**
 
 - [Pro Git Book](https://git-scm.com/book/en/v2) <sup>FREE</sup>
 - [Learn Git by Atlassian](https://www.atlassian.com/git) <sup>FREE</sup>
@@ -80,7 +80,7 @@ Python is a multi-paradigm language. Being an interpreted language, code is exec
 
 Here you need to learn basic concepts of programming languages, such as syntax, if/else, loops, data structures, etc.
 
-Resources:
+**Resources:**
 
 - Python:
   - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
@@ -107,7 +107,7 @@ In addition, you need to know **scripting** to automate tasks for development an
 
 Here you can learn OS-specific languages, such as **Bash or Powershell**, or independent, like Python or Go.
 
-Resources:
+**Resources:**
 
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
@@ -124,7 +124,7 @@ A **network protocol** is an established set of rules that determine how data is
 
 Here you will need to know how a network works, how to configure **firewalls**, understand how **DNS** works, **OSI model**, IP addresses, ports, etc.
 
-Resources:
+**Resources:**
 
 - [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>FREE</sup>
 - [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup> [Video Content](https://www.youtube.com/playlist?list=PLByK_3hwzY3Tysh-SY9MKZhMm9wIfNOas)<sup>video</sup>
@@ -144,7 +144,7 @@ Server management includes all the infrastructure monitoring and maintenance req
 
 Here you will need to know what is **forward and reverse proxies**, **caching servers**, and how to operate **Web Servers**, such as Nginx, Apache, or IIS.
 
-Resources:
+**Resources:**
 
 - [What is a reverse proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) <sup>FREE</sup>
 - [What is a CDN edge server??](https://www.cloudflare.com/learning/cdn/glossary/edge-server/) <sup>FREE</sup>
@@ -166,7 +166,7 @@ Here you need to know how to run containers, Docker Networking, Volumes, Dockerf
 
 Docker Compose is important as pre-requisite for Kubernetes. It is a tool for defining and running multi-container Docker applications. With Compose, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
 
-Resources:
+**Resources:**
 
 - [What are Containers?](https://cloud.google.com/learn/what-are-containers) <sup>FREE</sup>
 - [Learning Containers From The Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) <sup>FREE</sup>
@@ -190,7 +190,7 @@ You need to know basic components of Kubernetes, such as: Master Node, Worker No
 
 Also, you need to know how to work with kubectl and Helm tools.
 
-Resources:
+**Resources:**
 
 - [Kubernetes Crash Course for Absolute Beginners by TechWorld with Nana](https://www.youtube.com/watch?v=s_o8dwzRlu4) <sup>FREE</sup>
 - [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
@@ -211,7 +211,7 @@ Sometimes referred to as **IaC**, it refers to the techniques and tools used to 
 
 Here you need to know how to do **infrastructure provisioning** and **configuration management**.
 
-Resources:
+**Resources:**
 
 - [GUIs, CLI, APIs: Learn Basic Terms of Infrastructure-as-Code](https://thenewstack.io/guis-cli-apis-learn-basic-terms-of-infrastructure-as-code/) <sup>FREE</sup>
 - Terraform:
@@ -254,7 +254,7 @@ Here you need to learn how to set up CI/CD server, integrate code and trigger pi
 
 Some **popular CI/CD tools** are: Jenkins, TeamCity, CircleCI, Bamboo, GitLab, and Azure DevOps.
 
-Resources:
+**Resources:**
 
 - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
@@ -282,7 +282,7 @@ The two most popular tools are **Prometheus** and **Grafana**, but also Cloud-ba
 
 Here you need to know how to set up monitoring and visualize data, crating and setting up alerting, and creating automatization during alerting.
 
-Resources:
+**Resources:**
 
 - [What Is Observability? Comprehensive Beginners Guide](https://devopscube.com/what-is-observability/) <sup>FREE</sup>
 - [The Hows, Whys and Whats of Monitoring Microservices](https://thenewstack.io/the-hows-whys-and-whats-of-monitoring-microservices/) <sup>FREE</sup>
@@ -304,7 +304,7 @@ The most popular cloud providers in the market are **AWS** and **Azure**, as wel
 
 Here you need to know how to manage users and administration, networks, virtual servers, etc.
 
-Resources:
+**Resources:**
 
 - [Serverless 101 - Serverless Land](https://serverlessland.com/learn/serverless-101) <sup>FREE</sup>
 - Azure:
@@ -327,7 +327,7 @@ In addition, it would be good to know how **automation testing** is working, as 
 
 Here you need to know what is **Scrum**, all phases of **SDLC**, how **automation testing** works, etc.
 
-Resources:
+**Resources:**
 
 - [What is Scrum?](https://www.atlassian.com/agile/scrum) <sup>FREE</sup>
 - [Ways To Learn About Scrum](https://www.scrum.org/resources/ways-learn-about-scrum) <sup>FREE</sup>
@@ -346,7 +346,7 @@ Here you will need to learn how to integrate security into the DevOps pipeline, 
 
 Also, you need to know how to manage secrets and credentials, and how to set up security policies.
 
-Resources:
+**Resources:**
 
 - [OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/) <sup>FREE</sup>
 - [Supply Chain Levels for Software Artifacts (SLSA)](https://slsa.dev/) <sup>FREE</sup>

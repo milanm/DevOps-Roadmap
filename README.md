@@ -26,7 +26,7 @@ If you like or are using this project to learn or start your solution, please gi
 
 Download [PDF version](DevOps%20Roadmap.pdf).
 
-## Table of Contents
+## Table of Contents 
 
 - [Learning resources for DevOps Engineers (mostly free)](#learning-resources-for-devops-engineers-mostly-free)
   - [1. GIT](#1-git)

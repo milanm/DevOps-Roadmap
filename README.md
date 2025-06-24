@@ -117,6 +117,7 @@ Here you can learn OS-specific languages, such as **Bash or Powershell**, or ind
 - [FreeBSD Handbook](https://docs.freebsd.org/en/books/handbook/) <sup>FREE</sup>
 - [Linux command handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/) <sup>FREE</sup>
 - [Linux commands for Cloud and Devops engineers](https://www.youtube.com/watch?v=lCq4mYQL0WY) <sup>FREE</sup>
+- [Linux Commands Cheat Sheet](https://linux-commands.labex.io/) <sup>FREE</sup>
 
 ### 4. Learn Networking & Security
 
@@ -202,6 +203,7 @@ Also, you need to know how to work with kubectl and Helm tools.
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 - [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
 - [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) <sup>FREE</sup>
+- [Kubernetes for Noobs by LabEx](https://labex.io/courses/kubernetes-for-noobs) <sup>Course</sup>
 
 ### 8. Learn Infrastructure as a code (X as Code)
 

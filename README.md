@@ -402,6 +402,10 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
     This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.
 
+- **[Fundamentals of DevOps and Software Delivery](https://amzn.to/4neoJPh)**, by Yevgeniy Brikman
+
+    This book provides a a comprehensive, hands-on guide to deploying and managing software in production, written for practitioners. This is a hands-on guide that includes dozens of step-by-step examples that will have you running real systems: e.g., you’ll deploy Kubernetes clusters in AWS, manage infrastructure with OpenTofu, set up CI/CD pipelines with GitHub Actions, etc.
+
 ![DevOps books](DevOpsBooks.jpg)
 
 ## DevOps as a Burger (DaaB)

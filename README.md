@@ -133,6 +133,9 @@ Here you will need to know how a network works, how to configure **firewalls**, 
 - [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
 - [Securing DevOps: Security in the Cloud](https://www.amazon.com/Securing-DevOps-Security-Julien-Vehent/dp/1617294136/) <sup> Book</sup>
 - [Professor Messers Network+ course](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/) <sup>FREE</sup>
+- [How DNS works](https://howdns.works/)
+- [How DNSSEC works](https://howdnssec.works/)
+- [How HTTPS works](https://howhttps.works/)
 
 ### 5. Learn Server Management
 

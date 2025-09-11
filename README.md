@@ -99,7 +99,7 @@ An Operating system serves as a bridge between a computer's user and its hardwar
 
 As most servers use **Linux OS**, you need to make yourself comfortable with Linux and its CLI. 
 
-Lear basic commands, such as: ls, cd, mkdir, rm, cp, mv, touch, cat, printenv, grep, find, chmod, chmod, ps, kill, top, df, du, tar, gzip, ssh, scp, wget, curl, etc.
+Learn basic commands, such as: ls, cd, mkdir, rm, cp, mv, touch, cat, printenv, grep, find, chmod, chmod, ps, kill, top, df, du, tar, gzip, ssh, scp, wget, curl, etc.
 
 One easy-to-start distribution is **Ubuntu**. 
 

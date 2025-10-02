@@ -22,6 +22,8 @@ If you like or are using this project to learn or start your solution, please gi
 
 ## DevOps Roadmap
 
+Here is the complete DevOps roadmap.
+
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
 ## PDF version

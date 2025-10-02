@@ -18,6 +18,8 @@ If you find this repository helpful, consider supporting me on Patreon:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
+[![Star History Chart](https://api.star-history.com/svg?repos=milanm/DevOps-Roadmap,milanm/DotNet-Developer-Roadmap&type=Date)](https://www.star-history.com/#milanm/DevOps-Roadmap&milanm/DotNet-Developer-Roadmap&Date)
+
 ![DevOps roadmap](DevOps%20Roadmap.png)
 
 ## PDF version

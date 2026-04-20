@@ -275,6 +275,7 @@ Some **popular CI/CD tools** are: Jenkins, TeamCity, CircleCI, Bamboo, GitLab, a
     - [Learn GitHub actions](https://learn.microsoft.com/en-us/users/githubtraining/collections/n5p4a5z7keznp5) <sup>FREE</sup>
     - [GitHub Actions Tutorial by Tech World with Nana](https://www.youtube.com/watch?v=R8_veQiYBjI) <sup>FREE</sup>
     - [Workflow syntax for GitHub Actions](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions) <sup>FREE</sup>
+    - [FailureMemory](https://github.com/UnguisAI/failurememory) - GitHub Action for recurring CI failure fingerprinting and memory-backed triage.
 - GitLab:
     - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
     - [GitLab CI CD Tutorial for Beginners by Tech World With Nana](https://www.youtube.com/watch?v=qP8kir2GUgo) <sup>FREE</sup>

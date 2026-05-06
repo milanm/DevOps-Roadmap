@@ -303,7 +303,8 @@ Here you need to know how to set up monitoring and visualize data, crating and s
 - [Elastic Stack](https://www.elastic.co/guide/index.html) <sup>FREE</sup>
 - [AWS Tutorial - Amazon CloudWatch Tutorial](https://www.youtube.com/watch?v=qVYnlxdEebE) <sup>FREE</sup>
 - [Datadog 101 Course](https://www.youtube.com/watch?v=Js06FTU3nXo) <sup>FREE</sup>
-- [Splunk Fundamentals](https://www.splunk.com/en_us/training/splunk-fundamentals.html) <sup>FREE</sup>    
+- [Splunk Fundamentals](https://www.splunk.com/en_us/training/splunk-fundamentals.html) <sup>FREE</sup>
+- [Middleware observability guide](https://middleware.io/blog/observability/) <sup>FREE</sup>    
 
 ### 11. Learn one Cloud provider
 

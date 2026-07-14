@@ -20,7 +20,7 @@ If you find this repository helpful, consider supporting me on Patreon:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
-<p align="center">
+<p align="left">
  <a href="https://www.star-history.com/milanm/devops-roadmap">
   <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=milanm/DevOps-Roadmap&theme=dark" />

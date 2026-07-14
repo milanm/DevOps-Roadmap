@@ -20,7 +20,13 @@ If you find this repository helpful, consider supporting me on Patreon:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=milanm/DevOps-Roadmap&type=Date)](https://www.star-history.com/#milanm/DevOps-Roadmap&Date)
+<a href="https://www.star-history.com/?repos=milanm%2FDevOps-Roadmap&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=milanm/DevOps-Roadmap&type=date&theme=dark&legend=top-left&sealed_token=q0vefL_dXatZBfsIstSqLnqhAWkeIl7Waf8e2Ks7S0vfA2qtUv3GM3wuTdrYpY8-2qVVKU3aErx9hDZ0zk672braFPfVgxStSUMTHPP3YbkY6Ov6MA2anPddgSOVSv7h94so6kSyqtPE-crYIYtjMvl0OwDs3BQhZsICjRaBe3AjctTY3BgxZk6RGIrr" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=milanm/DevOps-Roadmap&type=date&legend=top-left&sealed_token=q0vefL_dXatZBfsIstSqLnqhAWkeIl7Waf8e2Ks7S0vfA2qtUv3GM3wuTdrYpY8-2qVVKU3aErx9hDZ0zk672braFPfVgxStSUMTHPP3YbkY6Ov6MA2anPddgSOVSv7h94so6kSyqtPE-crYIYtjMvl0OwDs3BQhZsICjRaBe3AjctTY3BgxZk6RGIrr" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=milanm/DevOps-Roadmap&type=date&legend=top-left&sealed_token=q0vefL_dXatZBfsIstSqLnqhAWkeIl7Waf8e2Ks7S0vfA2qtUv3GM3wuTdrYpY8-2qVVKU3aErx9hDZ0zk672braFPfVgxStSUMTHPP3YbkY6Ov6MA2anPddgSOVSv7h94so6kSyqtPE-crYIYtjMvl0OwDs3BQhZsICjRaBe3AjctTY3BgxZk6RGIrr" />
+ </picture>
+</a>
 
 ## DevOps Roadmap
 

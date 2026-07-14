@@ -218,6 +218,7 @@ Also, you need to know how to work with kubectl and Helm tools.
 - [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>
+- [KubeStellar Console](https://console.kubestellar.io) - AI-powered open-source dashboard for multi-cluster Kubernetes management with natural-language agent queries, real-time observability, and workload deployment across edge and cloud environments. <sup>FREE</sup>
 - [Kubernetes Up and Running](https://www.amazon.com/_/dp/1491935677?tag=oreilly20-20) <sup>Book</sup>
 - [Kubernetes Learning Path - 50 days from zero to hero from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/) <sup>FREE</sup>
 - [Below Kubernetes: Demystifying container runtimes](https://www.youtube.com/watch?v=MDsjINTL7Ek) <sup>FREE</sup>

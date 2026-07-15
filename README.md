@@ -277,6 +277,7 @@ Some **popular CI/CD tools** are: Jenkins, TeamCity, CircleCI, Bamboo, GitLab, a
 
 - [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
+- [Jenkins Official Documentation](https://www.jenkins.io/doc/) <sup>FREE</sup>
 - Jenkins:
     - [Jenkins, From Zero To Hero: Become a DevOps Jenkins Master](https://www.udemy.com/course/jenkins-from-zero-to-hero) <sup>Udemy course</sup>
 - Azure DevOps:

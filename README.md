@@ -68,7 +68,7 @@ Download [PDF version](DevOps%20Roadmap.pdf).
 
 All your resources (files) will be held in a GIT repository. Those files are **application code** but also **infrastructure as a code**. 
 
-**Git** is a free tool used for source code management. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development. 
+**Git** is a free tool used for source code management. Git is used to track changes in the source code, enabling multiple developers to work together on non-linear development.
 
 The two most popular Git platforms are **GitLab** and **GitHub**.
 
@@ -115,7 +115,7 @@ An Operating system serves as a bridge between a computer's user and its hardwar
 
 As most servers use **Linux OS**, you need to make yourself comfortable with Linux and its CLI. 
 
-Learn basic commands, such as: ls, cd, mkdir, rm, cp, mv, touch, cat, printenv, grep, find, chmod, chmod, ps, kill, top, df, du, tar, gzip, ssh, scp, wget, curl, etc.
+Learn basic commands, such as: ls, cd, mkdir, rm, cp, mv, touch, cat, printenv, grep, find, chmod, ps, kill, top, df, du, tar, gzip, ssh, scp, wget, curl, etc.
 
 One easy-to-start distribution is **Ubuntu**. 
 
@@ -166,7 +166,7 @@ Here you will need to know what is **forward and reverse proxies**, **caching se
 **Resources:**
 
 - [What is a reverse proxy?](https://www.cloudflare.com/en-gb/learning/cdn/glossary/reverse-proxy/) <sup>FREE</sup>
-- [What is a CDN edge server??](https://www.cloudflare.com/learning/cdn/glossary/edge-server/) <sup>FREE</sup>
+- [What is a CDN edge server?](https://www.cloudflare.com/learning/cdn/glossary/edge-server/) <sup>FREE</sup>
 - [Cache Server](https://networkencyclopedia.com/cache-server/) <sup>FREE</sup>
 - [Reverse Proxy vs. Forward Proxy: The Differences](https://oxylabs.io/blog/reverse-proxy-vs-forward-proxy) <sup>FREE</sup>
 - [What is load balancing?](https://www.cloudflare.com/en-gb/learning/performance/what-is-load-balancing/) <sup>FREE</sup>
@@ -250,7 +250,7 @@ Here you need to know how to do **infrastructure provisioning** and **configurat
     - [Getting Started With Ansible](https://docs.ansible.com/ansible/latest/getting_started/) <sup>FREE</sup>
     - [Learning Ansible Basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
     - [Get started with Red Hat Ansible](https://www.ansible.com/resources/get-started) <sup>FREE and PAID</sup>
-    - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup
+    - [Mastering Ansible](https://www.udemy.com/course/mastering-ansible/) <sup>Udemy Course</sup>
 - Istio:
     - [What is Istio?](https://www.redhat.com/en/topics/microservices/what-is-istio) <sup>FREE</sup>
 
@@ -260,7 +260,7 @@ Continuous Integration / Continuous Deployment (CI/CD) is a method to frequently
 
 CI/CD introduces continuous automation and **continuous** monitoring throughout the lifecycle of apps, from integration and testing phases to delivery and deployment. These connected practices are often referred to as a "**CI/CD pipeline**" and are supported by development and operations teams.
 
-There are **different stages** of a CI/CD pipeline, such as: **build, test and deploy**, but there could be much more activities included:
+There are **different stages** of a CI/CD pipeline, such as: **build, test and deploy**, but there could be many more activities included:
 
 - Checking code from version control and building it
 - Having staged gates for different kinds of approvals
@@ -342,7 +342,7 @@ Here you need to know how to manage users and administration, networks, virtual 
 
 As a DevOps engineer, you will probably work in a team with other developers in an Agile world, such as **Scrum**. So, it is very important to know different parts of **SDLC**, as well as the tools which are used there.
 
-In addition, it would be good to know how **automation testing** is working, as you will need to set up it in CI/CD way.
+In addition, it would be good to know how **automation testing** is working, as you will need to set it up in CI/CD way.
 
 Here you need to know what is **Scrum**, all phases of **SDLC**, how **automation testing** works, etc.
 
@@ -380,7 +380,7 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
 ### Tools
 
-- **Work Tracking**:** [Asana](https://asana.com/), [Monday](https://monday.com/), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azure Boards](https://azure.microsoft.com/en-au/products/devops/boards/).
+- **Work Tracking**: [Asana](https://asana.com/), [Monday](https://monday.com/), [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azure Boards](https://azure.microsoft.com/en-au/products/devops/boards/).
 - **Source code control**: [Git](https://git-scm.com/), [Github](https://github.com/), [GitLab](https://about.gitlab.com/), [BitBucket](https://bitbucket.org/), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops).
 - **CI/CD**: [Jenkins](https://www.jenkins.io/), [Team City](https://www.jetbrains.com/teamcity/), [Github Actions](https://github.com/features/actions), [Travis CI](https://www.travis-ci.com/), [Bamboo](https://www.atlassian.com/software/bamboo), [Circle CI](https://circleci.com/), [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines/), [Octopus Deploy](https://octopus.com/), [Harness](https://www.harness.io/), [CloudBees CodeShip](https://www.cloudbees.com/products/codeship).
 - **Source Code Analysis**: [SonarQube](https://www.sonarsource.com/products/sonarqube/), [Veracode](https://www.veracode.com/).
@@ -403,7 +403,7 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
 - **[Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ](https://amzn.to/3XRShoA)**, Jez Humble, David Farley 
 
-    It introduces automated architecture management and data migration. Many of the deployment pipeline concepts that have since become standard were established in this book. Config as Code, build and deployment automation, and efficient testing techniques are covered in some technical detail. Its mostly technical book.
+    It introduces automated architecture management and data migration. Many of the deployment pipeline concepts that have since become standard were established in this book. Config as Code, build and deployment automation, and efficient testing techniques are covered in some technical detail. It's mostly a technical book.
 
 - **[Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://amzn.to/3Zb83fl)**, Matthew Skelton, Manuel Pais
 
@@ -423,7 +423,7 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
 - **[Fundamentals of DevOps and Software Delivery](https://amzn.to/4neoJPh)**, by Yevgeniy Brikman
 
-    This book provides a a comprehensive, hands-on guide to deploying and managing software in production, written for practitioners. This is a hands-on guide that includes dozens of step-by-step examples that will have you running real systems: e.g., you’ll deploy Kubernetes clusters in AWS, manage infrastructure with OpenTofu, set up CI/CD pipelines with GitHub Actions, etc.
+    This book provides a comprehensive, hands-on guide to deploying and managing software in production, written for practitioners. This is a hands-on guide that includes dozens of step-by-step examples that will have you running real systems: e.g., you’ll deploy Kubernetes clusters in AWS, manage infrastructure with OpenTofu, set up CI/CD pipelines with GitHub Actions, etc.
 
 ![DevOps books](DevOpsBooks.jpg)
 

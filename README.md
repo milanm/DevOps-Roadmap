@@ -195,6 +195,7 @@ Docker Compose is important as pre-requisite for Kubernetes. It is a tool for de
 - [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/) <sup>Udemy course</sup>
 - [What is Service Mesh?](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh) <sup>FREE</sup>
 - [DevOps with Kubernetes](https://devopswithkubernetes.com/) <sup>FREE</sup>
+- [Docker Terminal Simulator by DevOps Daily](https://devops-daily.com/games/docker-terminal-simulator) <sup>FREE</sup>
 - [OCI Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
 
 ### 7. Learn Container Orchestration
@@ -215,6 +216,7 @@ Also, you need to know how to work with kubectl and Helm tools.
 - [Primer: How Kubernetes Came to Be, What It Is, and Why You Should Care](https://thenewstack.io/primer-how-kubernetes-came-to-be-what-it-is-and-why-you-should-care/) <sup>Article</sup>
 - [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) <sup>Udemy course</sup>
 - [Learn Kubernetes - Beginners to Advanced by KodeKloud](https://kodekloud.com/learning-path-kubernetes/) <sup>Course</sup>
+- [Kubernetes Terminal Simulator by DevOps Daily](https://devops-daily.com/games/kubernetes-terminal-simulator) <sup>FREE</sup>
 - [Understand when to use Cluster Services, Ingresses or API Gateways](https://gateway-api.sigs.k8s.io) <sup>FREE</sup>
 - [Understand which Problems Service Mesh solve (Use an Abstraction smi-spec.io](https://linkerd.io/2.12/features/) <sup>FREE</sup>
 - [Learn how to automate TLS](https://cert-manager.io/docs/) and  [DNS](https://github.com/kubernetes-sigs/external-dns) <sup>FREE</sup>

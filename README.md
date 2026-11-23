@@ -100,7 +100,7 @@ Here you need to learn basic concepts of programming languages, such as syntax, 
 
 - Python:
   - [Automate the Boring Stuff with Python book](https://automatetheboringstuff.com/) <sup>FREE</sup>
-  - [Python Crash Course](https://ehmatthes.github.io/pcc/) <sup>FREE</sup>
+  - [Python Crash Course](https://ehmatthes.github.io/pcc_3e/) <sup>FREE</sup>
 - JavaScript:
   - [The Modern JavaScript Tutorial](https://javascript.info/) <sup>FREE</sup>
   - [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c) <sup>FREE</sup>

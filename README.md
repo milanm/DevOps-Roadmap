@@ -1,4 +1,4 @@
-# DevOps Roadmap 2025.
+# DevOps Roadmap 2026.
 
 This is a step-by-step guide on how to become a DevOps engineer, with links to relevant learning resources.
 
@@ -101,6 +101,7 @@ Here you can learn OS-specific languages, such as **Bash or Powershell**, or ind
 Resources:
 
 - [Operating System - Overview](https://www.tutorialspoint.com/operating_system/os_overview.htm) <sup>FREE</sup>
+- [Linux the Bible 11th Edition] (https://www.ebooks.com/en-us/book/347166147/linux-bible/christopher-negus/) <sup>FREE</sup>
 - [Shell Scripting Tutorial](https://www.shellscript.sh/) <sup>FREE</sup>
 - [Powershell Tutorial for Beginners: Learn Powershell Scripting](https://www.guru99.com/powershell-tutorial.html)  <sup>FREE</sup>
 - [Bash Reference Manual](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html) <sup>FREE</sup>

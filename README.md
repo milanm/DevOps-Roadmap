@@ -431,11 +431,8 @@ Also, you need to know how to manage secrets and credentials, and how to set up 
 
     The industry gold standard in Linux guides, fully updated
   
-- **[Linux Bible, 11th Edition]([https://amzn.to/4neoJPh](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1394317468/))**, by Christopher Negus
-    In the newly updated eleventh edition of the Linux Bible, veteran Linux author and trainer Christopher Negus walks you through the latest and most popular Linux distributions, including Red Hat Enterprise 9, Ubuntu 24 LTS, and Fedora 41.       Whether you're a brand new or power user, you'll learn hands-on ways to become skilled at the world's most important operating system.
-    This edition expands coverage of Linux in cloud environments, such as the AWS cloud, and on-premises environments (with enhanced data center management features). You'll learn techniques for managing storage, users, and security, while         familiarizing yourself with administrative techniques using the clear explanations and step-by-step instructions that this series is known for.
-
-
+- **[Linux Bible, 11th Edition](https://link.amazon/B02H3A5jJ)**, by Christopher Negus
+    In the newly updated eleventh edition of the Linux Bible, veteran Linux author and trainer Christopher Negus walks you through the latest and most popular Linux distributions, including Red Hat Enterprise 9, Ubuntu 24 LTS, and Fedora 41. This edition expands coverage of Linux in cloud environments, such as the AWS cloud, and on-premises environments (with enhanced data center management features). You'll learn techniques for managing storage, users, and security, while         familiarizing yourself with administrative techniques using the clear explanations and step-by-step instructions that this series is known for.
 
 ![DevOps books](DevOpsBooks.jpg)
 
